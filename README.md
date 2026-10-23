@@ -1,15 +1,26 @@
-# 🤖 CrewAI Multi-Agent Systems Labs: From first Crew to Structured Multi-Agent systems
+<h1 align="center">🤖 CrewAI Agents: From First Crew to Structured Multi-Agent Systems</h1>
 
-> Three hands-on projects exploring how to design, orchestrate, and structure teams of autonomous AI agents with **CrewAI**, culminating in a five-agent meal and grocery planning system with validated, structured outputs.
+<p align="center"><b>A hands-on learning path for building collaborative and autonomous AI agent teams with CrewAI</b></p>
 
-![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=plastic&logo=python&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-Multi--Agent-FF5A50?style=plastic)
-![Pydantic](https://img.shields.io/badge/Pydantic-Validation-E92063?style=plastic&logo=pydantic&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=plastic&logo=jupyter&logoColor=white)
-![IBM watsonx](https://img.shields.io/badge/IBM-watsonx.ai-052FAD?style=plastic&logo=ibm&logoColor=white)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=plastic)
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3.10+-blue?style=flat-square" alt="Python">
+  <img src="https://img.shields.io/badge/crewai-multi--agent-red?style=flat-square" alt="CrewAI">
+  <img src="https://img.shields.io/badge/pydantic-validated-e92063?style=flat-square" alt="Pydantic">
+  <img src="https://img.shields.io/badge/IBM-watsonx.ai-052FAD?style=flat-square" alt="watsonx">
+  <img src="https://img.shields.io/badge/license-MIT-yellow?style=flat-square" alt="License">
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome">
+</p>
 
-*Build agents that research, organize, plan and collaborate*
+<p align="center"><i>*Build agents that research, organize, plan and collaborate*</i></p>
+
+<p align="center">
+  <a href="#-getting-started">Getting Started</a> •
+  <a href="#-learning-path">Learning Path</a> •
+  <a href="#-notebooks">Notebooks</a> •
+  <a href="#-key-concepts">Concepts</a> •
+  <a href="#-contributing">Contributing</a>
+</p>
+
 
 ## 📌 Overview
 
